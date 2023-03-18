@@ -12,23 +12,31 @@
 
 </div>
 
-<table style="max-width:500px; margin:auto">
-<tr>
-<td>
+## i am currently an undergraduate at Imperial College London, studying Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
 
-i am currently an undergraduate at Imperial College London, studying Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
+<div align="center">
 
-</td>
-<td align="center" style="border-left: 1px dashed grey">
-
-![avatar](https://avatars.githubusercontent.com/u/85779798)
-
-<div style="background: white; border-radius: 6px; width: 80%; min-width: 60px">
-
-[Resume](src/files/CV_dylan.pdf)
+## [Check out my Resume](src/files/CV_dylan.pdf)
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+## List of Stuff
+
+<details><summary>Projects</summary>
+
+[![laffey bot readme card](https://github-readme-stats.vercel.app/api/pin/?username=thedylone&repo=laffey-bot&theme=tokyonight&hide_border=true)](https://github.com/thedylone/laffey-bot)
+
+> a discord bot that tracks your valorant matches, along with other features. written in python and uses a postgres database. check out the [webpage](https://thedylone.github.io/laffey-bot/) for more info.
+
+[![drone readme card](https://github-readme-stats.vercel.app/api/pin/?username=thedylone&repo=unity-drone-simulator&theme=tokyonight&hide_border=true)](https://github.com/thedylone/unity-drone-simulator)
+
+> drone simulator which uses RTSP to output a video stream, for computer vision. developed with Unity.
+
+[![suipiss](https://github-readme-stats.vercel.app/api/pin/?username=thedylone&repo=suipiss&theme=tokyonight&hide_border=true)](https://github.com/thedylone/suipiss)
+
+> a reddit bot that automatically replies to posts and comments. fubuhappy. check out the [reddit profile](https://www.reddit.com/user/suipiss) for more info.
+
+
+</details>
