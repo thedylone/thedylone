@@ -49,7 +49,7 @@
 
 ![skills](src/images/skills.png)
 
-<!-- <details><summary>Expand</summary> -->
+<details><summary>Expand</summary>
 <div align="center">
 
 ![languages](src/images/languages.png)
@@ -80,7 +80,7 @@
 
 </div>
 
-<!-- </details> -->
+</details>
 
 </td>
 </tr>
