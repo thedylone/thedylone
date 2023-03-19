@@ -47,10 +47,12 @@
 </td>
 <td valign="top">
 
-![languages](src/images/languages.png)
+![skills](src/images/skills.png)
 
-<details><summary>Expand</summary>
+<!-- <details><summary>Expand</summary> -->
 <div align="center">
+
+![languages](src/images/languages.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedylone&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=jupyter%20notebook)
 
@@ -64,16 +66,21 @@
 ![sql](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+![software](src/images/software.png)
+
+![vscode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![adobe photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![adobe after effects](https://img.shields.io/badge/-Adobe%20After%20Effects-c78af2?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![adobe premiere pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9494f7?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-da2a1b?style=flat-square&logo=dassaultsystemes&logoColor=white)
+
 </div>
 
-## spoken languages
-
-:uk: english
-
-:cn: mandarin
-
-
-</details>
+<!-- </details> -->
 
 </td>
 </tr>
