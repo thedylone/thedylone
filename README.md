@@ -7,24 +7,27 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/thedylone?affiliations=OWNER%2CCOLLABORATOR&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedylone?label=Follow)](https://twitter.com/thedylone)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedylone&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=jupyter%20notebook)
 # hi, im dylan, aka ```thedylone```.
 
 </div>
 
-## i am currently an undergraduate at Imperial College London, studying Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
+ i am currently an undergraduate at Imperial College London, studying Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
 
 <div align="center">
 
-## [Check out my Resume](src/files/CV_dylan.pdf)
+[![resume](src/images/resume.png)](src/files/CV_dylan.pdf)
 
 </div>
 
 ---
 
-## List of Stuff
+<table>
+<tr>
+<td>
 
-<details><summary>Projects</summary>
+![projects](src/images/projects.png)
+
+<details><summary>Expand</summary>
 
 [![laffey bot readme card](https://github-readme-stats.vercel.app/api/pin/?username=thedylone&repo=laffey-bot&theme=tokyonight&hide_border=true)](https://github.com/thedylone/laffey-bot)
 
@@ -40,3 +43,18 @@
 
 
 </details>
+
+</td>
+<td>
+
+![languages](src/images/languages.png)
+
+<details><summary>Expand</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedylone&theme=transparent&hide_border=true&langs_count=6&hide=jupyter%20notebook)
+
+</details>
+
+</td>
+</tr>
+</table>
