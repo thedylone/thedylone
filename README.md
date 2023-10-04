@@ -7,11 +7,13 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/thedylone?affiliations=OWNER%2CCOLLABORATOR&style=social)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedylone?label=Follow)](https://twitter.com/thedylone)
 
-# hi, im dylan, aka ```thedylone```
+<h1> hi, im dylan, aka ```thedylone``` </h1>
 
 </div>
 
-> ### i am currently an undergraduate at 🎓 Imperial College London, studying 🛠 Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
+<h3> i am currently an undergraduate at 🎓 Imperial College London, studying 🛠 Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development. </h3>
+
+<h3>link to my website: <a href="https://thedylone.pages.dev">thedylone.pages.dev</a></h3>
 
 <div align="center">
 
@@ -41,7 +43,6 @@
 
 [![suipiss](src/images/suipiss.png)](https://www.reddit.com/u/suipiss)
 
-
 </details>
 
 </td>
@@ -66,7 +67,6 @@
 [![sql](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)]()
 [![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)]()
-
 
 [![software](src/images/software.png)]()
 
