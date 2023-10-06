@@ -7,17 +7,17 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/thedylone?affiliations=OWNER%2CCOLLABORATOR&style=social)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedylone?label=Follow)](https://twitter.com/thedylone)
 
-<h1> hi, im dylan, aka ```thedylone``` </h1>
+**hi, im dylan, aka `thedylone`**
 
 </div>
 
-<h3> i am currently an undergraduate at 🎓 Imperial College London, studying 🛠 Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development. </h3>
-
-<h3>link to my website: <a href="https://thedylone.pages.dev">thedylone.pages.dev</a></h3>
+i am currently an undergraduate at 🎓 Imperial College London, studying 🛠 Mechanical Engineering and set to graduate in 2026. i enjoy front-end web development, and design. i also have some experience in back-end development.
 
 <div align="center">
 
-[![resume](src/images/resume.png)](src/files/CV_dylan.pdf)
+[![website](src/images/website.png)](https://thedylone.pages.dev)
+
+[![resume](src/images/resume.png)](https://thedylone.pages.dev/files/DylanChua.pdf)
 
 </div>
 
